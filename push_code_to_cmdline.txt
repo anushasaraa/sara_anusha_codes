@@ -1,0 +1,3 @@
+git init --- to initilize the existing repository
+
+git add ---
