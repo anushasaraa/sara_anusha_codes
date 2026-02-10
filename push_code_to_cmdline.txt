@@ -1,3 +1,13 @@
 git init --- to initilize the existing repository
 
-git add ---
+git add . /git add * ---to track all the files 
+
+git commit -m "type commit message" ------ there we initilize the local git repo
+
+go to github and copy the URL https://github.com/anushasaraa/sara_anusha_codes and add .git at last to that url
+
+git remote add origin https://github.com/anushasaraa/sara_anusha_codes.git
+
+git remote .v -----to see all the subcommands   it is optional command
+
+git push origin master ---- to pust the code to git
